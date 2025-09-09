@@ -9,13 +9,10 @@ A visually appealing and fully functional **Calculator App** for Android.
 - User-friendly button layout  
 - Supports parentheses for complex calculations  
 
-## Future Plans
-- Support for decimal numbers  
-- Advanced operations (like percentage, square root, etc.)  
-- Enhanced UI and themes  
 
 ## Screenshots
 *will add soon
+
 
 ## How to Use
 1. Install the app on your Android device  
